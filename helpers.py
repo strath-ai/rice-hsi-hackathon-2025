@@ -22,8 +22,9 @@ def _copy(self, target):
 
 Path.copy = _copy
 
-DATA_DIR = Path("data") / "RGB and VIS-NIR HSI Data for 90 Rice Seed Varieties"
-
+#DATA_DIR = Path("data") / "RGB and VIS-NIR HSI Data for 90 Rice Seed Varieties"
+#New path for Maxwell
+DATA_DIR = Path("/uoa/scratch/shared/2025_hackathon/RGB_and_VIS-NIR_HSI_data_for_90_rice_seed_varieties/RGB_and_VIS-NIR_HSI_data_for_90_rice_seed_varieties")
 
 import spectral
 import numpy as np
