@@ -10,6 +10,8 @@ We have proviced you with a dataset: https://zenodo.org/records/3241923
 
 This dataset has been predownloaded onto Maxwell into a shared folder that you can all access.
 
+The dataset can be found on maxwell at: /uoa/scratch/shared/2025_hackathon/RGB_and_VIS-NIR_HSI_data_for_90_rice_seed_varieties/RGB_and_VIS-NIR_HSI_data_for_90_rice_seed_varieties
+
 
 
 
