@@ -1,5 +1,14 @@
 # hsi-hackathon
 
+Welcome
+
+This is an open ended Hackathon.
+We have proviced you with a dataset: https://zenodo.org/records/3241923
+
+This dataset has bene predownloaded onto Maxwell into a shared folder that you can all access.
+
+
+
 
 Attached is an example slurm script "runScript.sh"
 
