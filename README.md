@@ -7,7 +7,8 @@ We have proviced you with a dataset: https://zenodo.org/records/3241923
 
 **RGB and VIS/NIR Hyperspectral Imaging Data for 90 Rice Seed Varieties**
 
-This dataset has bene predownloaded onto Maxwell into a shared folder that you can all access.
+
+This dataset has been predownloaded onto Maxwell into a shared folder that you can all access.
 
 
 
