@@ -12,6 +12,10 @@ We are using the **RGB and VIS/NIR Hyperspectral Imaging Data for 90 Rice Seed V
 - **Dataset URL**: [https://zenodo.org/records/3241923](https://zenodo.org/records/3241923)
 - **Description**: This comprehensive dataset contains RGB and hyperspectral imaging data for 90 different rice seed varieties, enabling advanced analysis and classification.
 
+- A Small version of the dataset to test on can be found here:
+https://tinyurl.com/hsi-partial
+
+
 ## Accessing the Dataset
 
 The dataset has been pre-downloaded onto Maxwell and is available in a shared folder:
