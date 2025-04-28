@@ -15,6 +15,7 @@ We are using the **RGB and VIS/NIR Hyperspectral Imaging Data for 90 Rice Seed V
 - A Small version of the dataset to test on can be found here:
 https://tinyurl.com/hsi-partial
 
+> **Important Note**: When running any version of the script (Pyhon or Jupyter), the data directory must **ALSO** be updated in **'helpers.py'**.
 
 ## Accessing the Dataset
 
